@@ -3,34 +3,13 @@ A Collections of C++ STL Implementation (pseudo code).
 
 ## Table of Contents
 - [Containers Library](#containers-library)
-
 - [Dynamic Memory Library](#dynamic-memory-library)
-    - [ ] new
-    - [ ] memory
-    - [ ] scoped_allocator
-
 - [String Library](#string-library)
-    - [ ] string
-
 - [Algorithms Library](#algorithms-library)
-    - [ ] algorithm
-
 - [Iterator Library](#iterator-library)
-    - [ ] iterator
-
 - [RE Library](#re-library)
-    - [ ] regrex
-
 - [Input/Output Library](#input-output-library)
-    - [ ] ios
-    - [ ] istream
-    - [ ] ostream
-    - [ ] iostream
-    - [ ] fstream
-    - [ ] sstream
-    - [ ] strstream
-    - [ ] iomanip
-    - [ ] streambuf
+- [Contribution](#contribution)
 - [Authors](#authors)
 - [Credits](#credits)
 - [License](#license)
@@ -64,19 +43,17 @@ A Container is an object used to store objects and taking care of management of 
     - unordered_map
     - unordered_multimap
 
-### Contribution
+## Contribution
 Feel free to submit pull request to help:
 - Improve sections
 - Add new sections
 - Other bugs
 
 ## Authors
-----
 - [Sumant Mani](https://github.com/sumantmani)
 - Need contribution :)
 
 ## Credits
-----
 Resource:
 - [cppreference.com](http://en.cppreference.com/w/)
 - [isocpp](https://isocpp.org)
@@ -84,8 +61,8 @@ Resource:
 - [clang](http://clang.org)
 
 ## License
------
-Copyright &copy 2017 - Present Sumant Mani, All rights reserved.
+Copyright &copy; 2018 Sumant Mani
+
 License: GPL-3.0
 
 
